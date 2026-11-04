@@ -103,7 +103,7 @@ jupyter notebook Store_Location_and_Revenue_Improved.ipynb
 
 ## Author
 
-**Opoku Asante Emmanuel**, Data Scientist and Financial Economist
+**Yaw Asante** - Data Scientist, Statistician and Financial Economist
 
 Email: vkpoasante@gmail.com
 
