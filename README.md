@@ -1,4 +1,4 @@
-[README_StoreRevenue.md](https://github.com/user-attachments/files/34254498/README_StoreRevenue.md)
+
 # Predicting Store Revenue from Location Characteristics
 
 A regression analysis that estimates a store's revenue from five features of its location, shows how much each feature matters, and puts honest uncertainty around every estimate. It is built the way a retailer would want it: interpretable, validated, and clear about where it can and cannot be trusted.
